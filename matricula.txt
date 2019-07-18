@@ -1,0 +1,4 @@
+El estudiante LuisFernando
+Con cedula 1085319
+Se ha matriuculado en el curso llamado Bolsa de valores
+El cual tiene una duración de 32 horas y un valor de 150000
